@@ -32,6 +32,12 @@ Here are some programs that work well for the three mainstream operating systems
 - OSX/Linux-based: Use `gzip -d FILE.gz`.
 - Windows: Use [7zip](https://www.7-zip.org/)
 
+### OSCAR 23.01 (zstd)
+
+OSCAR 23.01 is compressed with zstd. They have file extensions like this : `af_meta.jsonl.zst`.
+You might already have zstd installed on your system, but if not, please check the [Zstandard website](https://facebook.github.io/zstd/) for installation instructions.
+
+
 ## Having a question or an issue with OSCAR?
 
 Send us your question by mail using the [mail address in our homepage](/#contact)
